@@ -25,3 +25,17 @@ The ESP8266 Sketch
 **wifi_test_3**
 
 The app itself
+
+---
+
+### How to install:
+
+1. Generate the SSIDS with the "test_wifif_ssids_with_prefix" Processing sketch.
+
+
+
+
+
+
+
+.
