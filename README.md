@@ -31,7 +31,7 @@ The app itself
 ### How to install:
 
 1. Generate the SSIDS with the "test_wifif_ssids_with_prefix" Processing sketch.
-
+2. Open wifiMessage_ESP8266 with the Arduino environment
 
 
 
