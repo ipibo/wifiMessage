@@ -10,7 +10,9 @@ WifiMessage is a way to spread hidden messages by using SSIDS to spread this mes
 ##### Hardware
 * ESP8266
 
-![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg) (tested on a Wemos d1 mini pro, not tested on other ESP8266 modules)
+![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg)
+
+(tested on a Wemos d1 mini pro, not tested on other ESP8266 modules)
 
 * Android smartphone
 * Powerbank
