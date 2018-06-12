@@ -20,6 +20,9 @@ void draw() {
     results = wifi.getScanResults();
     last_scan = millis();
   }
+  else {
+   return; 
+  }
 
   background(0);
   textAlign(LEFT);
