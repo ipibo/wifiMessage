@@ -73,9 +73,6 @@ String getTheText(String[] ssid) {
 }
 
 
-
-
-
 public String convertHexToString(String hex) {
 
   hex = hex.replaceAll("\\s+", "");
@@ -98,8 +95,6 @@ public String convertHexToString(String hex) {
 
       temp.append(decimal);
     }
-    //System.out.println("Decimal : " + temp.toString());
-
     return sb.toString();
   } else {
     //return "foutje:" + hex  + "." + (hex.length()-1);
@@ -107,28 +102,11 @@ public String convertHexToString(String hex) {
   }
 }
 
-
-
-
 void setup() {
-  //":/pF-1-ijne/dag/gewenst!", ":/pF-1-ijne/dag/gewenst!", 
-  //":/pF-0-Hallo/iedereen/een/hele/f", ":/pF-0-Hallo/iedereen/een/hele/f", ":/pF-0-Hallo/iedereen/een/hele/f", 
-  //"mees en iep", "yumenator"
-
-  String[] ssida = {
-
-    ":/pF-0-44697420697320696e666f726", 
-    ":/pF-1-d617469652064696520696b20", 
-    ":/pF-2-656967656e6c696a6b206e696", 
-    ":/pF-3-574207a6f752077696c6c656e", 
-    ":/pF-4-20766572737072656964656", 
-
-  };
-
-
-  getTheText(ssida);
-
-  println(convertHexToString(getTheText(ssida)));
+  
+   
+  
+  
 }
 
 void draw() {
