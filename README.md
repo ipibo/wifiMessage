@@ -80,9 +80,7 @@ Change the number inside of the "[]" to match the number of *SSIDS*. For this in
 
 Now upload the sketch to the *ESP 8266*.
 
-
-
-###For the App
+### For the App
 
 First enable *Android Mode* in Processing by clicking on the *JAVA* dropdown button in the upper right corner of the screen.
 
