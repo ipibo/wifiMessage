@@ -5,7 +5,6 @@ WifiMessage is a way to spread hidden messages by using SSIDS to spread this mes
 
 Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video 
 
-
 ---
 
 ### Requirements:
@@ -49,9 +48,9 @@ To generate the message to for the ESP8266
 
 The ESP8266 Sketch
 
-**wifi_test_3**
+**wifiMessage**
 
-The app itself
+This is the app itself.
 
 ---
 
