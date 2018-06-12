@@ -7,9 +7,9 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 
 ---
 
-### Requirements:
+## Requirements:
 
-##### Hardware
+### Hardware
 * ESP8266
 
 ![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg)
@@ -36,11 +36,11 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 
 ---
 
-### Included in this git:
+## Included in this git:
 
 <!-- (Still have to change this names) -->
 
-**test_wifif_ssids_with_prefix**
+**String_to_hex_generator**
 
 To generate the message to for the ESP8266
 
