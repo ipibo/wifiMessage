@@ -32,7 +32,7 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 
 <!--![Magnet](https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg)-->
 
-<img src = "https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg width="100" height="100" />
+<img src = "https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg" width="100" height="100" />
 
 (I used [this](https://goo.gl/87LW1D) magnet, because it was the right size compared to my powerbank)
 
