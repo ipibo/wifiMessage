@@ -12,7 +12,7 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 ### Hardware
 * ESP8266
 
-![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg)
+![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg =100x)
 
 (tested on a Wemos d1 mini pro, not tested on other ESP8266 modules)
 
@@ -29,7 +29,10 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 
 (I used [this](https://goo.gl/87LW1D) magnet, because it was the right size compared to my powerbank)
 
-##### Software:
+* Ducttape
+
+
+### Software:
 
 * Arduino IDE
 * Processing IDE (with Android mode installed & enabled)
