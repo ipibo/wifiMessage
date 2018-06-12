@@ -12,7 +12,7 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 ### Hardware
 * ESP8266
 
-![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg | =100x)
+<!--![wemos](https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg | =100x) -->
 
 <img src ="https://ae01.alicdn.com/kf/HTB17wPunamWBuNjy1Xaq6xCbXXa5/WEMOS-D1-mini-Pro-V1-1-0-16-M-bytes-externe-antenne-connector-ESP8266-WIFI-Internet.jpg_640x640.jpg" width="100" height="100" /> 
 
@@ -21,13 +21,18 @@ Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Video  Vid
 * Android smartphone
 * Powerbank
 
-![powerbank](https://images.hema.nl/products/usb-20-powerbank-200-mah-39500008-productzoom_rd.jpg)
+<!--![powerbank](https://images.hema.nl/products/usb-20-powerbank-200-mah-39500008-productzoom_rd.jpg)-->
+
+<img src = "https://images.hema.nl/products/usb-20-powerbank-200-mah-39500008-productzoom_rd.jpg"  width="100" height="100" />
+
 (I used [this](https://goo.gl/5Dv75q) powerbank, mainly because it was small)
 
 * USB cable to power the ESP8266
 * (Strong) Magnet
 
-![Magnet](https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg)
+<!--![Magnet](https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg)-->
+
+<img src = "https://www.magnetenkopen.nl/wp-content/uploads/2015/05/076_0083_klein.jpg width="100" height="100" />
 
 (I used [this](https://goo.gl/87LW1D) magnet, because it was the right size compared to my powerbank)
 
