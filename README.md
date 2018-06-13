@@ -121,6 +121,18 @@ Connect your phone to the computer and press on the upload button in the Process
 This app does not work immidiately, you first have to give permissions to the app. To do this go to settings -> Apps -> wifiMessage. Here press the *Permissions* button, and allow it to use *Your location*.
 
 
+---
+
+# To test
+
+Open the app wifiMessage on your phone
+
+Connect the ESP8266 to a power supply, and wait for it to boot up.
+
+In a few moments you see the message you left appearing on your screen.
+
+Have fun!
+
 
 <!--
 1. Generate the SSIDS with the "test_wifif_ssids_with_prefix" Processing sketch.

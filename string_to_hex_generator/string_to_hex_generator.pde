@@ -59,7 +59,7 @@ PrintWriter output;
 void setup() {  
   output = createWriter("allSubstrings.txt"); 
 
-  String hexString = convertStringToHex("CHANGE THIS");
+  String hexString = convertStringToHex("Nederlandse militairen in Mali zijn onvoldoende getraind voor missie");
   
   
   char[] hexChar = hexString.toCharArray();
