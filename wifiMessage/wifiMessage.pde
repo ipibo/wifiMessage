@@ -33,8 +33,12 @@ void draw() {
   String[] ssids = new String[results.size()];
 
   int counter = 0;
-  fill(200, 100);
+  //fill(200, 100);
   for (ScanResult s : results) {
+    fill(200, 100);
+    if(s.SSID.startsWith(":/pF")){
+      fill(230,170);
+    }
     text(s.SSID, 50, y+=40);
     ssids[counter++] = s.SSID;
   }
@@ -74,7 +78,7 @@ void draw() {
 
 
   if (mousePressed) {
-    background(255, 0, 0);
+    //background(255, 0, 0);
     textAlign(CENTER);
     textSize(100);
     fill(255,100);

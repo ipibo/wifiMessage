@@ -4,7 +4,9 @@ WifiMessage is a way to spread hidden messages by using SSIDS to spread this mes
 ![image](images/image1.JPG)
 
 [![Alt text](https://i.ytimg.com/vi/Sq2rwI1TFf0/hqdefault.jpg)](https://www.youtube.com/embed/Sq2rwI1TFf0)
+
 *Click for video*
+
 <!--<img src="https://i.ytimg.com/vi/Sq2rwI1TFf0/hqdefault.jpg" width="100" height = "100" />
 -->
 ---
